@@ -8,6 +8,10 @@ It is made by EZO Labs Inc.
 
 Apps for macOS, Windows and Linux, with iPhone and Android test builds: https://superbot.gg/download
 
+## Code
+
+- [n8n-nodes-superbot](https://github.com/superbot-gg/n8n-nodes-superbot): use superbot from your n8n workflows.
+
 ## Questions
 
 Help and contact: https://superbot.gg/support
